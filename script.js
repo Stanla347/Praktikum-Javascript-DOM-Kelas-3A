@@ -98,7 +98,6 @@ function perbaharuiJumlah() {
         //jika  > 0; Tambahkan class "hidden" agar teks "belum ada catatan" tersembunyi 
         pesanKosong.classList.add("hidden");
     }
-
     //Langkah 3 : Fungsi utama logika tambah catatan baru
     function tambahCatatan() {
         //3.1. InputCatatan.value fungsinya untuk mengambil teks yagn telah diketik oleh user
